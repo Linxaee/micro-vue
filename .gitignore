@@ -1,0 +1,5 @@
+node_modules
+packages/vue/dist
+.vscode/
+
+play
